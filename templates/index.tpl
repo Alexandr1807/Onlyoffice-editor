@@ -19,7 +19,7 @@
     <header>
         <div class="center">
             <a href="">
-                <img src ="assets/images/logo.svg" alt="ONLYOFFICE" />
+                <img src ="assets/images/newLogo.svg" alt="newLogo" />
             </a>
         </div>
     </header>
