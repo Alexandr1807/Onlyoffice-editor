@@ -244,6 +244,8 @@
                 return;
             }
 
+            config.editorConfig.customization.logo = {"image": "http://localhost/assets/images/newLogo.svg", "imageDark": "http://localhost/assets/images/newLogo.svg", "url": "http://localhost"}
+
             docEditor = new DocsAPI.DocEditor("iframeEditor", config);
         };
 
